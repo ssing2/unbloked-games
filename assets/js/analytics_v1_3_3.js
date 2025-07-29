@@ -31,14 +31,14 @@ window.addEventListener("load", (event) => {
   }
 
   if (botBrowser()) {
-    loadGoogleAnalytics("G-LE1ZGTPC77");
+    loadGoogleAnalytics("G-2LVL7K3MQQ");
     console.log('Bot Browser');
   } else {
     console.log('Human Browser');
     if (window.location.href.indexOf(".games235.com")> -1) {      
-        loadGoogleAnalytics("G-4EMF7BG2HD");
+        loadGoogleAnalytics("G-2LVL7K3MQQ");
     } else {
-        loadGoogleAnalytics("G-KFFPC3CBG0");
+        loadGoogleAnalytics("G-2LVL7K3MQQ");
     }
   }
 });
