@@ -38,7 +38,7 @@ window.addEventListener("load", (event) => {
     if (window.location.href.indexOf(".games235.com")> -1) {      
         loadGoogleAnalytics("G-2LVL7K3MQQ");
     } else {
-        loadGoogleAnalytics("G-2LVL7K3MQQ");
+        loadGoogleAnalytics("G-RKEQJZMBBB");
     }
   }
 });
